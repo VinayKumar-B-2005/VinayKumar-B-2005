@@ -48,9 +48,9 @@ I'm passionate about building intelligent systems — from machine learning mode
 
 ## 📊 GitHub Stats
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinaykumarB-2005&show_icons=true&theme=tokyonight)
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinaykumarB-2005&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinaykumarB-2005&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinaykumarB-2005&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
