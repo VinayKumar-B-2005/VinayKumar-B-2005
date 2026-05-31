@@ -30,7 +30,7 @@ I'm passionate about building intelligent systems — from machine learning mode
 | Project | Description | Tech |
 |---|---|---|
 | 💡 Li-Fi Communication System | Wireless data transmission via visible light | IoT · Embedded Systems |
-| 🎮 [Wolfstein 2D Game](https://github.com/VinaykumarB-2005/Wolfstein-2D-Game) | 2D raycasting game built from scratch | Python · Pygame |
+| 🎮 [Wolfstein 2D Game](https://github.com/VinayKumar-B-2005/Wolfstein-2D-Game) | 2D raycasting game built from scratch | Python · Pygame |
 | 🎬 Movie Recommendation Website | Full-stack ML-powered recommendation platform | Python · FastAPI · React |
 | 🤖 JARVIS – Personal Assistant | AI voice-controlled desktop assistant | Python · NLP |
 
@@ -49,5 +49,5 @@ I'm passionate about building intelligent systems — from machine learning mode
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinay--kumar--aiml-blue?logo=linkedin)](https://linkedin.com/in/vinay-kumar-aiml)
-[![GitHub](https://img.shields.io/badge/GitHub-VinaykumarB--2005-black?logo=github)](https://github.com/VinaykumarB-2005)
+[![GitHub](https://img.shields.io/badge/GitHub-VinayKumar--B--2005-black?logo=github)](https://github.com/VinayKumar-B-2005)
 [![Email](https://img.shields.io/badge/Email-this.is.vinaykumar.b%40gmail.com-red?logo=gmail)](mailto:this.is.vinaykumar.b@gmail.com)
